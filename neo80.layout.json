@@ -102,7 +102,7 @@
       "KC_RALT",
       "KC_CAPS",
       "MO(1)",
-      "RESET",
+      "KC_RCTL",
       "KC_LEFT",
       "KC_DOWN",
       "KC_RGHT"
